@@ -4,3 +4,9 @@ Some items agreed on,
 •	The 4 eyes feature cannot be turned on when there is a system template in use for either list or client change rules or if here is only one user with the appropriate rights.
 •	A system admin can only change 4 eyes related items within the organization that they are logged in.
 •	A user who has access to 4 eyes features will do so within the organization and not be bounded by group membership
+Some items agreed on,
+
+•	Do not allow system list and client change rules templates to be used in an organization with the 4 eyes feature on.
+•	The 4 eyes feature cannot be turned on when there is a system template in use for either list or client change rules or if here is only one user with the appropriate rights.
+•	A system admin can only change 4 eyes related items within the organization that they are logged in.
+•	A user who has access to 4 eyes features will do so within the organization and not be bounded by group membership
